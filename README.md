@@ -1,2 +1,3 @@
-# self-study
-Record and notes of self-study
+# Self-Study
+Records and Notes of Self-Study
+
